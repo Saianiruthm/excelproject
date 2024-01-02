@@ -58,6 +58,10 @@
 2. Average prices by Screen Size
 3. Average prices by GPU
 
+### Medium Article in Repository
+
+Find our detailed analysis and insights in the [Medium Article](https://medium.com/@sai2804aniruth/exploring-laptop-data-unveiling-insights-through-analysis-c1adc24990e2).
+
 ## Excel Functions Used
 
 1. VLOOKUP
